@@ -1,0 +1,5 @@
+{
+"versionName":"0.0.1",
+  "apkUrl":"https://apk-should-go-here.com",
+  "forceUpdate": true
+}
