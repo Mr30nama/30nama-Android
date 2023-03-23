@@ -1,5 +1,5 @@
 {
-"versionName":"0.0.1",
-  "apkUrl":"tbd",
+"versionName":"0.1.0",
+  "apkUrl":"https://github.com/Mr30nama/30nama-Android/releases/download/v0.1.0/30nama.apk",
   "forceUpdate": true
 }
